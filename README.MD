@@ -2,6 +2,8 @@ Questionnaire Engine with authentication system:
 
 Stack: Express/MongoDB
 
+Front-end: EJS/Bootstrap
+
 The questionnaire is constructed from a JSON file.
 
 Functionality:
